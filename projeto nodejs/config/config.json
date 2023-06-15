@@ -1,0 +1,28 @@
+{
+    "development": {
+        "username": "root",
+        "password": "",
+        "database": "umjescola",
+        "host": "127.0.0.1",
+        "timezone": "-03:00",
+        "logging": true,
+        "dialect": "mysql"
+    },
+    "test": {
+        "username": "root",
+        "password": null,
+        "database": "umjescola",
+        "host": "127.0.0.1",
+        "dialect": "mysql"
+    },
+    "production": {
+        "username": "root",
+        "password": "",
+        "database": "",
+        "host": "",
+        "timezone": "-03:00",
+        "logging": true,
+        "dialect": "mysql"
+
+    }
+}
