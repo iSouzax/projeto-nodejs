@@ -1,5 +1,3 @@
-# projeto-nodejs / Aluno Washington, disciplina de Tópicos Especiais em Programação, 3º Período - Engenharia da Computação UMJ
-
 const bodyParser = require('body-parser');
 const env = require('dotenv').config();
 const models = require('./models');
